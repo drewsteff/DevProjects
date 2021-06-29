@@ -1,9 +1,10 @@
-* {
-  font-family: Spartan, Jost, sans-serif;
-}
 
 h1 {
-  color: SeaGreen;
+  color: Khaki;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
 }
 
 p,
