@@ -18,7 +18,7 @@ a {
   font-weight: bold;
 }
 
-#S1 {
+h2 {
   font-size: 32px;
   color: white;
   font-weight: bold;
@@ -26,8 +26,10 @@ a {
   background-color: mediumspringgreen;
 }
 
+p,
 #important-text-snippet {
   font-weight: bold;
   color: blue;
   font-family: Helvetica;
 }
+
