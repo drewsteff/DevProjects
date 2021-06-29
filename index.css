@@ -11,21 +11,22 @@ h1 {
   font-weight: bold;
   text-align: center;
   background-image: url("./imgs/Tile\ texture\ image.webp");
+  display: block;
 }
 
 
 h2 {
+  display: block;
+  font-weight: bold;
+}
+
+.item h2 {
   font-size: 32px;
   color: white;
-  font-weight: bold;
-  font-family: Helvetica;
+}
+
+#brush {
   background-color: mediumspringgreen;
 }
 
-p,
-#important-text-snippet {
-  font-weight: bold;
-  color: blue;
-  font-family: Helvetica;
-}
 
