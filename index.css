@@ -1,0 +1,18 @@
+* {
+  font-family: Spartan, Jost, sans-serif;
+}
+
+h1 {
+  color: SeaGreen;
+}
+
+p,
+li {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
