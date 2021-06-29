@@ -27,6 +27,7 @@ h2 {
 
 .price {
   color: blue;
+  font-weight: bold;
 }
 
 #brush {
