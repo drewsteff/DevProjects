@@ -1,15 +1,15 @@
-h1,
-h2,
+h1, 
+h2, 
 h3, 
 p {
   font-family: "Helvetica", sans-serif;
 }
 
 h1 {
-  color: Khaki;
-  font-size: 100px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
-  background-image: url("./imgs/Tile\ texture\ image.webp");
+  font-size: 100px;
+  color: khaki;
 }
 
 .item h2 {
@@ -18,20 +18,18 @@ h1 {
 }
 
 .price {
-  color: blue;
   font-weight: bold;
+  color: blue;
 }
 
 #brush {
   background-color: mediumspringgreen;
 }
 
-
 #frame {
-  background-color: darksalmon;
+  background-color: lightcoral;
 }
 
 #paint {
   background-color: skyblue;
 }
-
