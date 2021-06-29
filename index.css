@@ -25,8 +25,20 @@ h2 {
   color: white;
 }
 
+.price {
+  color: blue;
+}
+
 #brush {
   background-color: mediumspringgreen;
 }
 
+
+#frame {
+  background-color: darksalmon;
+}
+
+#paint {
+  background-color: skyblue;
+}
 
